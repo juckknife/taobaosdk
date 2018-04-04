@@ -1,0 +1,19 @@
+{
+    "name": "juckknife/taobaosdk",
+    "description": "a taobao sdk for php",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "shenyang",
+            "email": "juckknife@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "juckknife\\taobaosdk\\": ""
+        }
+    }
+}
